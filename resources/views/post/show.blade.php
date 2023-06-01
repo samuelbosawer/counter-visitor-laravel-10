@@ -25,9 +25,9 @@
               <h3 class="fw-bold"> Visitor </h3>
               <div class="">
 
-                <p class="mt-3"> Pengujung hari ini  <span class=""> {{$hari}} </span></p>
-                <p class="mt-3"> Pengujung bulan ini  <span class=""> {{$hari}} </span></p>
-                <p class="mt-3"> Pengujung total semua  <span class=""> {{$total}} </span></p>
+                <p class="mt-3"> Pengunjung hari ini  <span class=""> {{$hari}} </span></p>
+                <p class="mt-3"> Pengunjung bulan ini  <span class=""> {{$hari}} </span></p>
+                <p class="mt-3"> Pengunjung total semua  <span class=""> {{$total}} </span></p>
               </div>
             </div>
         </div>
